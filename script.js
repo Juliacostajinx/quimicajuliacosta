@@ -711,16 +711,16 @@ document.addEventListener('DOMContentLoaded', () => {
     ];
 
     const sadFeedbacks = [
-        { image: 'images/sad1.gif', sound: 'sounds/sad1.mp3' },
-        { image: 'images/sad2.gif', sound: 'sounds/sad2.mp3' },
-        { image: 'images/sad3.gif', sound: 'sounds/sad3.mp3' },
-        { image: 'images/sad4.gif', sound: 'sounds/sad4.mp3' },
-        { image: 'images/sad5.gif', sound: 'sounds/sad5.mp3' },
-        { image: 'images/sad6.gif', sound: 'sounds/sad6.mp3' },
-        { image: 'images/sad7.gif', sound: 'sounds/sad7.mp3' },
-        { image: 'images/sad8.gif', sound: 'sounds/sad8.mp3' },
-        { image: 'images/sad9.gif', sound: 'sounds/sad9.mp3' },
-        { image: 'images/sad10.gif', sound: 'sounds/sad10.mp3' },
+        { image: 'sad1.gif', sound: 'sad1.mp3' },
+        { image: 'sad2.gif', sound: 'sad2.mp3' },
+        { image: 'sad3.gif', sound: 'sad3.mp3' },
+        { image: 'sad4.gif', sound: 'sad4.mp3' },
+        { image: 'sad5.gif', sound: 'sad5.mp3' },
+        { image: 'sad6.gif', sound: 'sad6.mp3' },
+        { image: 'sad7.gif', sound: 'sad7.mp3' },
+        { image: 'sad8.gif', sound: 'sad8.mp3' },
+        { image: 'sad9.gif', sound: 'sad9.mp3' },
+        { image: 'sad10.gif', sound: 'sad10.mp3' },
         // Adicione quantos mais quiser!
     ];
 
