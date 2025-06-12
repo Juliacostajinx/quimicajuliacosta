@@ -801,7 +801,7 @@ document.addEventListener('DOMContentLoaded', () => {
         // Esconde o feedback após um tempo
         setTimeout(() => {
             quizResultFeedback.style.display = 'none';
-        }, 3000); // 2 segundos
+        }, 5000); // 2 segundos
     }
 
     nextQuestionBtn.addEventListener('click', () => {
